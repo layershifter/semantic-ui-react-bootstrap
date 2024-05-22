@@ -18,7 +18,7 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
-    "craco-less": "^2.0.0"
+    "craco-less": "^3.0.0"
   },
   "devDependencies": {
     "@craco/craco": "^7.0.0",
